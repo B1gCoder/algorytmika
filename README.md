@@ -1,6 +1,6 @@
-# \ Algorytmika
+# Algorytmika
 
-` Eryk Głod - 15.09.2023r.
+Eryk Głod - 15.09.2023r.
 
 ## Opis
 
