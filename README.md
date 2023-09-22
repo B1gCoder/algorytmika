@@ -10,5 +10,5 @@ Opis projektu
 
 Linki do zrealizowanych programów:
 
-1. [Alorytm 1]()
+1. [Alorytm 1](https://github.com/B1gCoder/algorytmika/tree/main/pierwszy-program)
 2. [Alorytm 2]()
